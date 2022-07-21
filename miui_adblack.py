@@ -45,9 +45,8 @@ def make_file(rules):
 
 
 if __name__ == '__main__':
-    url_list = ["https://easylist-downloads.adblockplus.org/easylistchina+easylistchina_compliance+easylist.txt",
-                "https://easylist-downloads.adblockplus.org/easylist.txt",
-                "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt",
+    url_list = ["https://bitbucket.org/hacamer/adrules/raw/main/adblock.txt",
+                "https://bitbucket.org/hacamer/adrules/raw/main/adguard.txt",
 
                 ]
 
